@@ -1,0 +1,19 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.piqnt.fastcontext": {
+            "PACKAGE_NAME": "js.stage.orbit"
+        }
+    },
+    "dependent_plugins": {},
+    "modules": [],
+    "plugin_metadata": {
+        "com.piqnt.fastcontext": "0.1.3"
+    }
+}
